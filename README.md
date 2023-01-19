@@ -8,7 +8,7 @@ Viewing driver earnings, tracking activity and miles, and monitoring driver tenu
 - **Optimize your revenue**, by helping you prioritize which drivers are most active and are generating the most mileage fees
 - **Reduce payment risk**, by staying informed at all times of your drivers’ activity levels
 
-You can try out the Fleet Owner App [here](https://sampleapps.argyle.com/fleet-owner) and learn more about the features [here](https://docs.argyle.com/guides/docs/fleet-owner).
+You can try out the Fleet Owner App [here](https://sampleapps.argyle.com/fleet-owner) and learn more about the features [here](https://docs.argyle.com/guides/docs/fleet-owner-app).
 
 ## Getting Started
 
